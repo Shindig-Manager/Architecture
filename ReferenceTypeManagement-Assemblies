@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T04:32:13.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="lRtl9NIgLVdYeO8nbKuz" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-21T04:33:22.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="o4RYLk81eLYTQG5m7wYJ" version="15.7.0" type="github">
   <diagram id="xjZHY-2uaF55a5iIpGBM" name="Page-1">
     <mxGraphModel dx="1056" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-3" value="Repository.&lt;br&gt;EntityFramework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="329" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W600tPbUalntTcqAHY2F-4" target="W600tPbUalntTcqAHY2F-5">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-4" value="Repository.Cosmos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="652" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="667" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W600tPbUalntTcqAHY2F-5" target="W600tPbUalntTcqAHY2F-6">
           <mxGeometry relative="1" as="geometry" />
@@ -32,22 +32,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-5" value="Repository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="495" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-6" value="Entities" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="495" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-11" value="Common" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="495" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-13" value="Microsoft.&lt;br&gt;Azure.Cosmos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="810" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="825" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-15" value="Microsoft.&lt;br&gt;EntityFrameworkCore" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="140" y="325" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-16" value="Microsoft.&lt;br&gt;EntityFrameworkCore.&lt;br&gt;SqlServer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="140" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="W600tPbUalntTcqAHY2F-21" target="W600tPbUalntTcqAHY2F-3">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +56,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W600tPbUalntTcqAHY2F-21" value="PopulateCosmos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="495" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W600tPbUalntTcqAHY2F-26" value="Reference Type Management" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="375" y="20" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
